@@ -21,6 +21,8 @@ Inspiration for this log: https://github.com/amitness/learning
 |[Brilliant.org: Linear Algebra Practice Problems](https://brilliant.org/)|⬜|
 
 ### Programming Resources and General Tools/Setup 
+|Resource|Progress|
+|---|---|
 |Google Colab for experimentation: [Colab](https://colab.research.google.com/)|⬜|
 |[PyTorch 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)|⬜| 
 
@@ -40,11 +42,15 @@ Inspiration for this log: https://github.com/amitness/learning
 **Goal**: Create small, functional projects applying foundational skills.  
 
 ### Project Tools  
+|Resource|Progress|
+|---|---|
 |Flask Documentation: [Flask Quickstart](https://flask.palletsprojects.com/en/latest/quickstart/)|⬜| 
 |Pre-trained PyTorch Models: [PyTorch Hub](https://pytorch.org/hub/)|⬜|
 |[Hugging Face: Beginner Tutorial for Transformers](https://huggingface.co/transformers/)|⬜|
 
 ### Debugging and Metrics  
+|Resource|Progress|
+|---|---|
 |Articles or tutorials on accuracy, precision, and recall (fill out this section after searching platforms like Medium or Towards Data Science).|⬜|
 
 ---
@@ -53,14 +59,20 @@ Inspiration for this log: https://github.com/amitness/learning
 **Goal**: Build practical AI web applications with advanced tools and fine-tuning models.  
 
 ### Mathematics Deepening  
+|Resource|Progress|
+|---|---|
 |MIT OpenCourseWare: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)|⬜|
 |3Blue1Brown: *Eigenvectors and Eigenvalues* Video |⬜|
 
 ### Transformers and Fine-Tuning  
+|Resource|Progress|
+|---|---|
 |Hugging Face: [Fine-Tuning Guide](https://huggingface.co/transformers/training.html) |⬜|
 |Pre-trained Models: [Hugging Face Models](https://huggingface.co/models)|⬜|
 
 ### Intermediate Project Ideas  
+|Resource|Progress|
+|---|---|
 |YOLO for Object Detection: [YOLO Documentation](https://pjreddie.com/darknet/yolo/)|⬜|
 |Kaggle Dataset for Custom Project: [Kaggle Datasets](https://www.kaggle.com/datasets)|⬜|
 
@@ -69,10 +81,14 @@ Inspiration for this log: https://github.com/amitness/learning
 ## Advanced Topics and Contributions  
 
 ### Advanced Mathematics  
+|Resource|Progress|
+|---|---|
 |MIT OpenCourseWare: [Linear Algebra Full Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |⬜|
 |[Textbook: *Deep Learning* by Goodfellow et al. (online version)](https://www.deeplearningbook.org/) |⬜|
 
 ### Open Source and Community  
+|Resource|Progress|
+|---|---|
 |Kaggle Competitions (fill out this section with specific challenges): [Kaggle](https://www.kaggle.com/)|⬜|
 |Forums: [Hugging Face Community](https://discuss.huggingface.co/) |⬜|
 
@@ -82,6 +98,8 @@ Inspiration for this log: https://github.com/amitness/learning
 **Goal**: Build a portfolio-ready AI application and showcase work.  
 
 ### Project Integration  
+|Resource|Progress|
+|---|---|
 |Flask + PyTorch Advanced Features: [Documentation](https://flask.palletsprojects.com/)|⬜|
 |Cloud Deployment (Optional): Google Cloud or AWS setup for AI projects.|⬜|
 |Write and share documentation: Medium/Towards Data Science/GitHub README.|⬜|
