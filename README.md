@@ -9,7 +9,7 @@ Inspiration for this log: https://github.com/amitness/learning
 **Purpose**: Build a strong foundation in Linear Algebra, Calculus, Statistics, Neural Networks, and AI frameworks.  
 
 ### Mathematics Resources  
-- [ ] [Khan Acaddemy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra) [==](20%)
+- [ ] [Khan Acaddemy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra) [==] (20%)
 - [ ] [Khan Acaddemy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [Khan Acaddemy: Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
 - [ ] [Khan Acaddemy: Differential Equations](https://www.khanacademy.org/math/differential-equations)
