@@ -1,5 +1,5 @@
 # Study Log
-Checklist to help me keep track of milestones in a study plan designed to help me become well-versed in the fundementals of ML (particularly deep learning) theory. This will probably be expanded to cover other domains of knowledge in software engineering.
+Checklist to help me keep track of milestones in a study plan designed to help familiarize myself with the fundementals of ML (particularly deep learning) theory. Will probably be expanded to cover other domains of knowledge in software engineering.
 
 Inspiration for this log: https://github.com/amitness/learning
 
@@ -10,13 +10,12 @@ Inspiration for this log: https://github.com/amitness/learning
 
 ### Foundational Mathematics Resources
 
-|Resource|Progress|
-|---|---|
+|Resource|Progress|Notes|
+|---|---|---|
 |[Imperial College London, MOOC: Mathematics for Machine Learning - Specialization, Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/)|✅|
 |[Imperial College London, MOOC: Mathematics for Machine Learning - Specialization, Multivariant Calculus](https://www.coursera.org/specializations/mathematics-machine-learning)|✅|
 |[Imperial College London, MOOC: Mathematics for Machine Learning - Specialization, Linear Algebra](https://www.coursera.org/specializations/mathematics-machine-learning)|⬜|
-|MIT OpenCourseWare: [Linear Algebra Full Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |⬜ (for deepening knowledge/review)|
-|[Textbook: *Deep Learning* by Goodfellow et al. (online version)](https://www.deeplearningbook.org/) |⬜ (for deepening knowledge)|
+|MIT OpenCourseWare: [Linear Algebra Full Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |⬜ |for deepening knowledge/review|
 
 ### Programming Resources and General Tools/Setup
 |Resource|Progress|
@@ -24,15 +23,26 @@ Inspiration for this log: https://github.com/amitness/learning
 |Google Colab for experimentation: [Colab](https://colab.research.google.com/)|⬜|
 |[PyTorch 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)|⬜|
 
-### Neural Networks Foundational Resources
-|Resources|Progress|
-|---|---|
-|[LinkedIn Learning: Building Computer Vision Applications with Python](https://www.linkedin.com/learning/building-computer-vision-applications-with-python/computer-vision-under-the-hood)|✅ (turned out to be more of a graphics processing course than anything)|
-|[Andrew Ng: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)|progress: 1/4|
-|[Andrew Ng: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)|⬜|
-|[Andrew Ng: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)|⬜|
-|[Andrew Ng: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)|⬜|
-|[Andrew Ng: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)|⬜|
+
+### Machine Learning/Neural Networks Foundational Resources
+|Resources|Progress|Notes|
+|---|---|---|
+|[LinkedIn Learning: Building Computer Vision Applications with Python](https://www.linkedin.com/learning/building-computer-vision-applications-with-python/computer-vision-under-the-hood)|✅|turned out to be more of a graphics processing course, but at least provides a good intro to convolution filters (just does not actually provide the whole picture with regard to convolutional neural network architecture)|
+|[Andrew Ng: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)|✅||
+|[Andrew Ng: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)|✅||
+|[Andrew Ng: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)|✅| |
+|[Andrew Ng: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)|✅| |
+|[Andrew Ng: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)|✅|Found this sequence of deep learning courses overall extremely illuminating. Definititely leaves you with enough of an understanding of LSTMs/GRUs, ConvNets, and ResNets to start tinkering confidently. Final module on tranformers felt pretty abstract/rushed compared to every other module.|
+|[3Blue1Brown: Transformers (how LLMs work) explained visually](https://www.youtube.com/watch?v=wjZofJX0v4M)|✅| Youtube video. Useful followup for final module of Andrew Ng's "Sequence Models" course. |
+|[Andrej Karpathy: Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)|⬜|youtube video|
+|[Neural machine translation with a Transformer and Keras](https://www.tensorflow.org/text/tutorials/transformer)|⬜| article from tensorflow docs|
+|[Fine-tune a pretrained (transformer) model](https://huggingface.co/docs/transformers/training)|⬜|huggingface docs|
+|[Textbook: *Deep Learning* by Goodfellow et al. (online version)](https://www.deeplearningbook.org/) |⬜|textbook|
+
+### Topics to follow up on/review from ML courses:
+- Understanding the properties/behavior of commonly used loss functions
+- Transformer architecture
+- Math review exercise: walk through backprop for a Sequential model with GRUs  or LSTM cells
 
 ---
 
@@ -41,69 +51,22 @@ Inspiration for this log: https://github.com/amitness/learning
 |Resource|Notes/Progress|
 |---|---|
 |[Attention is all you need](https://arxiv.org/abs/1706.03762)|⬜ (Introduced transformer architecture)|
+|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9kgISsDFvuO8MZlBnFosRC4C4FiNqno6ahMESpHrnRkOKvDeon1AkJ43ZnkA-hwbA6vq6q)|⬜|
+|[LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING](https://arxiv.org/pdf/1611.01599)|⬜ Authors: Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, & Nando de Freitas|
 
 ---
 
-## ~~ End of the human-vetted section of this list. 
-
-## Basic AI Projects
-**Goal**: Create small, functional projects applying foundational skills.
-
-### Project Tools
-|Resource|Progress|
-|---|---|
-|Flask Documentation: [Flask Quickstart](https://flask.palletsprojects.com/en/latest/quickstart/)|⬜|
-|Pre-trained PyTorch Models: [PyTorch Hub](https://pytorch.org/hub/)|⬜|
-|[Hugging Face: Beginner Tutorial for Transformers](https://huggingface.co/transformers/)|⬜|
-
-### Debugging and Metrics
-|Resource|Progress|
-|---|---|
-|Articles or tutorials on accuracy, precision, and recall (fill out this section after searching platforms like Medium or Towards Data Science).|⬜|
-
----
-
-## Intermediate AI Applications
-**Goal**: Build practical AI web applications with advanced tools and fine-tuning models.
-
-### Mathematics Deepening
-|Resource|Progress|
-|---|---|
-|MIT OpenCourseWare: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)|⬜|
-|3Blue1Brown: *Eigenvectors and Eigenvalues* Video |⬜|
-
-### Transformers and Fine-Tuning
-|Resource|Progress|
-|---|---|
-|Hugging Face: [Fine-Tuning Guide](https://huggingface.co/transformers/training.html) |⬜|
-|Pre-trained Models: [Hugging Face Models](https://huggingface.co/models)|⬜|
-
-### Intermediate Project Ideas
-|Resource|Progress|
-|---|---|
-|YOLO for Object Detection: [YOLO Documentation](https://pjreddie.com/darknet/yolo/)|⬜|
-|Kaggle Dataset for Custom Project: [Kaggle Datasets](https://www.kaggle.com/datasets)|⬜|
-
----
-
-## Advanced Topics and Contributions
 
 ### Open Source and Community
 |Resource|Progress|
 |---|---|
-|Kaggle Competitions (fill out this section with specific challenges): [Kaggle](https://www.kaggle.com/)|⬜|
-|Forums: [Hugging Face Community](https://discuss.huggingface.co/) |⬜|
-
+|Kaggle Datasets: [Kaggle Datasets](https://www.kaggle.com/datasets)|⬜|
 ---
 
-## Project Iteration and Final Applications
-**Goal**: Build a portfolio-ready AI application and showcase work.
 
-### Project Integration
-|Resource|Progress|
+# System Design Study Plan
+
+## General Resources
+|Resource|Notes/Progress|
 |---|---|
-|Flask + PyTorch Advanced Features: [Documentation](https://flask.palletsprojects.com/)|⬜|
-|Cloud Deployment (Optional): Google Cloud or AWS setup for AI projects.|⬜|
-|Write and share documentation: Medium/Towards Data Science/GitHub README.|⬜|
-
-
+|[Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |⬜|
