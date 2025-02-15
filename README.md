@@ -48,11 +48,24 @@ Inspiration for this log: https://github.com/amitness/learning
 
 ## ML Papers
 
-|Resource|Notes/Progress|
-|---|---|
-|[Attention is all you need](https://arxiv.org/abs/1706.03762)|⬜ (Introduced transformer architecture)|
-|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9kgISsDFvuO8MZlBnFosRC4C4FiNqno6ahMESpHrnRkOKvDeon1AkJ43ZnkA-hwbA6vq6q)|⬜|
-|[LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING](https://arxiv.org/pdf/1611.01599)|⬜ Authors: Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, & Nando de Freitas|
+|Resource|Progress|Notes|
+|---|---|----|
+|[Attention is all you need](https://arxiv.org/abs/1706.03762)|⬜| (Introduced transformer architecture)||
+|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9kgISsDFvuO8MZlBnFosRC4C4FiNqno6ahMESpHrnRkOKvDeon1AkJ43ZnkA-hwbA6vq6q)|⬜||
+|[LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING](https://arxiv.org/pdf/1611.01599)|⬜| Authors: Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, & Nando de Freitas|
+|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)|⬜| Deep Learning 4 course, supplemental recommended reading. Authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun|
+|[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi|
+|[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Joseph Redmon, Ali Farhadi|
+|[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Sandler, Howard, Zhu, Zhmoginov & Chen (2018)|
+|[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)|⬜|Deep Learning 4 course, supplemental recommended reading. (Tan & Le, 2019)|
+|[Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs](https://arxiv.org/abs/1701.08816)|⬜|Deep Learning 4 course, supplemental recommended reading. (Novikov, Lenis, Major, Hladůvka, Wimmer & Bühler, 2017) |
+|[Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks](https://arxiv.org/abs/1705.03820)|⬜|Deep Learning 4 course, supplemental recommended reading. (Dong, Yang, Liu, Mo & Guo, 2017) |
+|[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)|⬜|Deep Learning 4 course, supplemental recommended reading. (Ronneberger, Fischer & Brox, 2015) |
+|[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832)|⬜|Deep Learning 4 course, supplemental recommended reading. (Schroff, Kalenichenko & Philbin, 2015)|
+|[DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://scontent-lga3-2.xx.fbcdn.net/v/t39.8562-6/240890413_887772915161178_4705912772854439762_n.pdf?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=NdyjNPFINoMQ7kNvgHCWM0U&_nc_oc=AdgRMRncPbzdvh37g-NoHuwz6yO_jwAcyL6st3OIzMKsdNxPwOTkK7J64RFkSlRbnNigrA4en__zp7kTVjkzlvnK&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=ANzXYunySZDsZuTUA76pLsD&oh=00_AYAM7rvBxNpSahCTFZsFf6ot_C_jnLFDvg9TJFbD3AZ5Ig&oe=67B6D77F)|⬜|Deep Learning 4 course, supplemental recommended reading. (Taigman, Yang, Ranzato & Wolf) |
+|[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)|⬜|Deep Learning 4 course, supplemental recommended reading. (Gatys, Ecker & Bethge, 2015)|
+|[Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)|⬜|Deep Learning 4 course, supplemental recommended reading. (Simonyan & Zisserman, 2015)|
+|[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://proceedings.neurips.cc/paper_files/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)|⬜|Deep Learning 4 course, supplemental recommended reading. (Bolukbasi et al., 2016)|
 
 ---
 
