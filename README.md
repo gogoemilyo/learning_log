@@ -52,7 +52,7 @@ Inspiration for this log: https://github.com/amitness/learning
 |---|---|----|
 |[Attention is all you need](https://arxiv.org/abs/1706.03762)|⬜| (Introduced transformer architecture)||
 |[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9kgISsDFvuO8MZlBnFosRC4C4FiNqno6ahMESpHrnRkOKvDeon1AkJ43ZnkA-hwbA6vq6q)|⬜||
-|[LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING](https://arxiv.org/pdf/1611.01599)|⬜| Authors: Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, & Nando de Freitas|
+|[LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING](https://arxiv.org/pdf/1611.01599)|✅| Authors: Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, & Nando de Freitas. Sentence-level data set improves accuracy of the model (~95%), as context is extremely helpful in disambiguating visemes (visual phonemes) that look confusingly similar. Techniques: CTC Loss, STCNN, bidirectional GRU, beam search.|
 |[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)|⬜| Deep Learning 4 course, supplemental recommended reading. Authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun|
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi|
 |[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Joseph Redmon, Ali Farhadi|
