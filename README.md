@@ -53,6 +53,7 @@ Inspiration for this log: https://github.com/amitness/learning
 |[Attention is all you need](https://arxiv.org/abs/1706.03762)|⬜| (Introduced transformer architecture)||
 |[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9kgISsDFvuO8MZlBnFosRC4C4FiNqno6ahMESpHrnRkOKvDeon1AkJ43ZnkA-hwbA6vq6q)|⬜||
 |[LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING](https://arxiv.org/pdf/1611.01599)|✅| Authors: Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, & Nando de Freitas. Sentence-level data set improves accuracy of the model (~95%), as context is extremely helpful in disambiguating visemes (visual phonemes) that look confusingly similar. Techniques: CTC Loss, STCNN, bidirectional GRU, beam search.|
+|[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)|⬜| Graves, Fernandez, Gomez, Schmidhuber (2006). Followup on CTC Loss for LipNet paper.|
 |[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)|⬜| Deep Learning 4 course, supplemental recommended reading. Authors: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun|
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi|
 |[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)|⬜|Deep Learning 4 course, supplemental recommended reading. Authors: Joseph Redmon, Ali Farhadi|
@@ -66,6 +67,8 @@ Inspiration for this log: https://github.com/amitness/learning
 |[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)|⬜|Deep Learning 4 course, supplemental recommended reading. (Gatys, Ecker & Bethge, 2015)|
 |[Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)|⬜|Deep Learning 4 course, supplemental recommended reading. (Simonyan & Zisserman, 2015)|
 |[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://proceedings.neurips.cc/paper_files/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)|⬜|Deep Learning 4 course, supplemental recommended reading. (Bolukbasi et al., 2016)|
+|[Learning Object Permanence from Videos via Latent Imaginations](https://arxiv.org/pdf/2310.10372)|⬜|(Traub, Becker, Otte, Butz, 2024) Curious about learning processes for spatial data, as this is something that human brains are so good at, it can be used as a mnemonic technique (e.g., method of loci). This seems like it might be tangentially related.|
+|STAM-SNN: Spatio-Temporal Associative Memory in Brain-Inspired Spiking Neural Networks: Concepts and Perspectives|⬜|have local pdf of preprint|
 
 ---
 
@@ -80,6 +83,7 @@ Inspiration for this log: https://github.com/amitness/learning
 # System Design Study Plan
 
 ## General Resources
-|Resource|Notes/Progress|
-|---|---|
-|[Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |⬜|
+|Resource|Progress|Notes|
+|---|---|---|
+|[Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |⬜||
+|[https://docs.djangoproject.com/en/5.1/intro/](https://docs.djangoproject.com/en/5.1/intro/)|✅||
